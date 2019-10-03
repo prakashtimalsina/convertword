@@ -20,3 +20,5 @@ Usage
     >>>numbers(999.99)
 
     'नौ सय उनन्सय रुपैया र पैसा उनन्सय मात्र ।'
+ 
+Prakash Timalsina
